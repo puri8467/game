@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>DaVinci Code Game</title>
+</head>
+<body background=http://review.chosun.com/site/data/img_dir/2007/08/20/2007082000878_0.jpg>
+<fieldset>
+<center><legend>다빈치코드게임</legend></center>
+<center><input type="button" value="게임시작" onclick="location='bb.html'"></center>
+<center><button id = "b">게임설명</button></center>
+<center><button id = "c">나가기</button></center>
+<script>
+document.getElementById('b').onclick=function()
+{
+  alert("숫자다보이면짐");
+}
+document.getElementById('c').onclick=function()
+{
+  javascript:window.close()
+}
+</script>
+</fieldset>
+</body>
+</html>
+

@@ -1,0 +1,27 @@
+
+   <html>
+        <head>
+            <title>Davinci Code Game</title>
+
+        </head>
+
+        <body background="picture.jpg">
+            <div>
+	    	</br></br></br></br></br>
+                <center><span style="color:GREEN"><h1><B>Da Vinci Code Game</B></span></h1></center>
+            </div>
+
+
+            <div>
+		</br></br>
+                <center><h2><a href="www.naver.com">게임 시작</a></h2></center>
+            </div>
+
+            <div>
+		</br>
+                <center><h2><a href="">게임 방법</a></h2></center>
+	</br></br></br></br></br></br></br></br></br></br></br></br>
+		<p align="right">만든이 : 박라현, 설아현, 지대철, 지민규   </p>
+                </div>
+        </body>
+    </html>
