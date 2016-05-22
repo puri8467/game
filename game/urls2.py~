@@ -1,0 +1,7 @@
+from django.conf.urls import url
+from . import views
+
+urlpatterns = [
+    url(r'^explanation', views.post_explain, name='post_explain')
+
+]
